@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
-    <artifactId>java-getting-started</artifactId>
+    <artifactId>tk-test</artifactId>
     <version>1.0</version>
 
     <name>java-getting-started</name>
@@ -24,7 +24,7 @@
     </dependencies>
 
     <build>
-        <finalName>GettingStarted</finalName>
+        <finalName>tkTest</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-dependency-plugin</artifactId>
