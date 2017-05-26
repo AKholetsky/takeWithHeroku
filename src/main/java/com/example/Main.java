@@ -12,7 +12,7 @@ import java.util.Map;
 public final class Main {
     public static void main(final String... args) throws Exception {
         new FtCli(
-            new TkApp(), args
+            new TkApp(), "--port=56456"
         ).start(Exit.NEVER);
     }
 }
